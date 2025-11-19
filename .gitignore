@@ -1,0 +1,17 @@
+# Ignore all large data files
+*.npy
+*.npz
+*.txt
+*.log
+*.dat
+*.chk
+*.h5
+*.pt
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Backup files
+*.bak
